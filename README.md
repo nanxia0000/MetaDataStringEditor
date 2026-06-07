@@ -1,7 +1,9 @@
 # 
 晚一点上传，还没上传
+
 找别人加的功能 可以通过cvs批量修改metadata.dat字符串
 
+后续不会更新以及修bug
 
 global-metadata.dat的部分字符串修改工具
 &emsp;&emsp;对于Unity-il2cpp脚本后端导出的Android游戏，代码中出现的字符串会编译进assets\bin\Data\Managed\Metadata\global-metadata.dat文件，作为汉化工作的一环，简单撸了一个工具对其中的字符串做修改。
